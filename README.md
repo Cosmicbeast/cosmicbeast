@@ -17,9 +17,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=cosmicbeast&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cosmicbeast&repo=YOUR_REPO_NAME&theme=codeSTACKr)](https://github.com/cosmicbeast/resturant-menu)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cosmicbeast&repo=YOUR_REPO_NAME&theme=codeSTACKr)](https://github.com/cosmicbeast/project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cosmicbeast&repo=YOUR_REPO_NAME&theme=codeSTACKr)](https://github.com/cosmicbeast/workshop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cosmicbeast&repo=project&theme=codeSTACKr)](https://github.com/cosmicbeast/project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cosmicbeast&repo=resturant-menu&theme=codeSTACKr)](https://github.com/cosmicbeast/resturant-menu)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cosmicbeast&repo=workshop&theme=codeSTACKr)](https://github.com/cosmicbeast/workshop)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cosmicbeast&icon=0&color=0)](https://visitcount.itsvg.in)
