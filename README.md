@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-📱 Web developer, currently learning frontend🚀<br>🔎 Good knowledge in DSA (Data Structures & Algorithms)<br>🛠️ Always building and experimenting with new tech and projects<br>📚 Learning, improving, and sharing knowledge and coding since 2024<br>🌱 Passionate about collaborating and growing as part of the tech community
+📱 Web developer, currently learning frontend🚀<br>🔎 Good knowledge in DSA (Data Structures & Algorithms)<br>🛠️ Always building and experimenting with new tech and projects<br>📚 Learning, improving, and sharing knowledge and coding since 2025<br>🌱 Passionate about collaborating and growing as part of the tech community
 
 
 ## 🌐 Socials:
@@ -15,6 +15,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cosmicbeast&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+![Profile views](https://komarev.com/ghpvc/?username=cosmicbeast&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 🔝 Top Contributed Repo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cosmicbeast&repo=project&theme=codeSTACKr)](https://github.com/cosmicbeast/project)
